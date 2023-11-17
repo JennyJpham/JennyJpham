@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Jenny Pham, my background is accountancy and looking to change my career
+- 👋 My name is Jenny Pham, dedicated and detail-oriented Accountant/Business Analyst with 14 years of experience.
 - 👀 I’m interested in healthcare related, especially mental healthcare
-- 🌱 I’m currently learning Data Science Program, I am doing my Master Thesis in NLP
 - 💞️ I love dancing (ballet,bachata and pole dance), reading, I am  ceritifed yoga instructor and teaching in my spare time
 
 
